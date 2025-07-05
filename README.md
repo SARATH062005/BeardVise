@@ -30,7 +30,7 @@ BeardVise is a computer vision project that helps men discover the best beard st
 
 ---
 
-##  flowchart System Pipeline
+##  Flowchart System Pipeline
 
 The project follows a systematic pipeline to process the user's image and generate a recommendation.
 
