@@ -1,6 +1,6 @@
 # BeardVise: AI Beard Style Recommender
 
-![Project Banner]([https://via.placeholder.com/1200x300.png?text=BeardVise%3A%20Find%20Your%20Perfect%20Beard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbeard&psig=AOvVaw3wpTgIRK5xXHVP7oTRcscI&ust=1751808745933000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCaxKLqpY4DFQAAAAAdAAAAABAE))
+
 
 BeardVise is a computer vision project that helps men discover the best beard styles for their face shape. It analyzes a user's photo, determines their facial structure, and suggests flattering beard styles with a "virtual try-on" feature.
 
@@ -66,7 +66,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/BeardVise.git
+    git clone https://https://github.com/SARATH062005/BeardVise.git
     cd BeardVise
     ```
 
@@ -144,6 +144,3 @@ BeardVise/
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
